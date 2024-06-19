@@ -40,7 +40,7 @@ The app defines following  APIs.
 
 POST  /api/user/register
 
-(below 2 are need username and password to access. storage mechanism => in-memory storage) 
+(below 2 are need username and password to access. storage mechanism => in-memory storage please check in SecurityConfig.java ) 
 
 GET 
 /getAllUsers
